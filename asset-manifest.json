@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AD1N1993/voodooRoks/static/css/main.22d64b82.chunk.css",
+    "main.js": "/AD1N1993/voodooRoks/static/js/main.25ec36bc.chunk.js",
+    "main.js.map": "/AD1N1993/voodooRoks/static/js/main.25ec36bc.chunk.js.map",
+    "runtime-main.js": "/AD1N1993/voodooRoks/static/js/runtime-main.4f4667c0.js",
+    "runtime-main.js.map": "/AD1N1993/voodooRoks/static/js/runtime-main.4f4667c0.js.map",
+    "static/js/2.e37b0b31.chunk.js": "/AD1N1993/voodooRoks/static/js/2.e37b0b31.chunk.js",
+    "static/js/2.e37b0b31.chunk.js.map": "/AD1N1993/voodooRoks/static/js/2.e37b0b31.chunk.js.map",
+    "static/js/3.4f1cda7e.chunk.js": "/AD1N1993/voodooRoks/static/js/3.4f1cda7e.chunk.js",
+    "static/js/3.4f1cda7e.chunk.js.map": "/AD1N1993/voodooRoks/static/js/3.4f1cda7e.chunk.js.map",
+    "index.html": "/AD1N1993/voodooRoks/index.html",
+    "static/css/main.22d64b82.chunk.css.map": "/AD1N1993/voodooRoks/static/css/main.22d64b82.chunk.css.map",
+    "static/js/2.e37b0b31.chunk.js.LICENSE.txt": "/AD1N1993/voodooRoks/static/js/2.e37b0b31.chunk.js.LICENSE.txt",
+    "static/media/loader.149a7823.gif": "/AD1N1993/voodooRoks/static/media/loader.149a7823.gif",
+    "static/media/search.e65d7764.png": "/AD1N1993/voodooRoks/static/media/search.e65d7764.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4667c0.js",
+    "static/js/2.e37b0b31.chunk.js",
+    "static/css/main.22d64b82.chunk.css",
+    "static/js/main.25ec36bc.chunk.js"
+  ]
+}
