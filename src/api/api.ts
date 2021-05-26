@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: "https://loripsum.net/api/",
+    baseURL: process.env.REACT_APP_LOREM_URL,
 
 })
 
