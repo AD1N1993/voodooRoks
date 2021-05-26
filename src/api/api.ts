@@ -8,7 +8,7 @@ const instance = axios.create({
 export const loremAPI = {
     getLoremHTML(count: number, size: string, headers: string) {
         return instance.get(`${count}/${size}/${headers}`).then(res => res.data)
-    }
+    },
 }
 
 export  type ResponsePostsDataType = {
